@@ -6,10 +6,14 @@ Binder, I think.
 
 It's widely known that the sine and cosine function are very similar, differing
 only by a phase angle.
-$$\sin \theta = \sum_{k=0}^{\infty} \frac{ (-1)^k \theta^{2k+1} }
+```math
+\sin \theta = \sum_{k=0}^{\infty} \frac{ (-1)^k \theta^{2k+1} }
 {\left(2k+1\right)!},$$
+```
 and
-$$\cos \theta = \sum_{k=0}^{\infty} \frac{ (-1)^k \theta^{2k} }{(2k)!} .$$
+```math
+\cos \theta = \sum_{k=0}^{\infty} \frac{ (-1)^k \theta^{2k} }{(2k)!} .
+```
 So, that leads me to wonder: is there a way to *interpolate* between the two
 trigonometric functions?—and would it even be worth it in the first place?
 
