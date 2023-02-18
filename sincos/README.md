@@ -1,7 +1,8 @@
 # Making a weird periodic function
 
 **Note:** This is a Pluto notebook. In order to run this file as *god* intended,
-use the [`Pluto.jl`][plunto] package.
+use the [`Pluto.jl`][plunto] package. Alternatively, you can open this in
+Binder, I think.
 
 It's widely known that the sine and cosine function are very similar, differing
 only by a phase angle.
