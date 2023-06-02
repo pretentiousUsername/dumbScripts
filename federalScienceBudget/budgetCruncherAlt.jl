@@ -14,5 +14,5 @@ using PlotThemes
 
 institutions = dataframe[!, :Agency]
 theme(:dark)
-pie(institutions, budgetInPercent, legend=:outerleft, title = "2023 federal R&D budget by function")
+pie(institutions, budgetInPercent, legend=:outerleft, title = "2023 federal R&D budget by\nfunction")
 savefig("budgetShareFy2023Alt.png")
