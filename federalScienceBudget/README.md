@@ -16,6 +16,7 @@ budget results for any given year on the AIP's record.
 
 ## Budget breakdown
 
+### By agency
 | Agency   | Budget (in millions of dollars) | Share of the total budget |
 |:---------|:--------------------------------|:--------------------------|
 | DOE-OSI  |   8,100                         |  3.01%                    |
@@ -29,12 +30,22 @@ budget results for any given year on the AIP's record.
 | NIH      |  47,459                         | 17.64%                    |
 | USGS     |   1,497                         |  0.56%                    |
 
-
-
 ![Visual breakdown of the FY23 R&D budget.](budgetShareFy2023.png)
 
 
+### By function
+| Function       | Budget (in millions of dollars) | Share of the total budget |
+|:---------------|:--------------------------------|:--------------------------|
+| Harming people | 165,940                         | 61.69%                    |
+| Helping people | 55,601                          | 20.67%                    |
+| Healing people | 47,459                          | 17.64%                    |
+
+![Alternative visual breakdown of the FY23 R&D budget.](budgetShareFy2023Alt.png)
+
+
 ## Brief rundown of major US science agencies
+
+### List of agencies
 + **[Department of Energy, Office of Science (DOE-OSI)][doeOSI] –** The US's 
   major non-military, (mostly) non-medical science program; funds R&D in areas 
   relevant to the DOE, and runs 10 of the DOE's 18 national labs.
@@ -90,3 +101,27 @@ budget results for any given year on the AIP's record.
 [nih]: https://www.nih.gov
 
 [usgs]: https://www.usgs.gov
+
+
+### Brief rundown on agency function
+By "harm, help, and heal," I'm talking about the primary role of each agency.
+
++ The main criteria for *harming people* is investing most of an R&D budget on
+  weapons, or the agency's primary purpose is developing weapons. While both
+  the DOD and NNSA spend plenty of money on peaceful work, but that's not why
+  they exist—the military, fundamentally, is not made for peace, and neither is
+  the extremely military-adjacent agency that develops the most devastating
+  weapons on the planet.
++ The main criteria for *helping people* is investing most of an R&D budget
+  on peaceful activities, helping industry, individual people, and the civilian
+  federal government. It is absolutely worth noting, however, that many
+  agencies I've classified as "helping people" do take grants from the DOD
+  work closely with the NNSA.
++ The main criteria for *healing people* is, well, doing medical stuff. Take
+  a wild gander which government agency does that.
+
+| Function    | Agency                                           |
+|:------------|:-------------------------------------------------|
+| Harm people | DOD and DOE-NNSA                                 |
+| Help people | DOE-OSI, DOE-AE, NASA, NSF, NOAA, NIST, and USGS |
+| Heal people | NIH                                              |
