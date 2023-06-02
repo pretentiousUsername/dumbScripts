@@ -8,11 +8,19 @@ here are also important for chemists, biologists, doctors, and more. Of course,
 the USDA and EPA weren't included here, so they've been left out, as I was too
 lazy to actually check them.
 
-Budgeting is important, and it shows where the US's priorities lie—judging by
-the breakdown, it's pretty obvious what the federal government likes to fund.
+It's worth noting that my analysis is far from complete here. I only used one
+source, which is *really* only relevant to physicists (like me!) or
+physics-adjacent people, moreover, I didn't go into granular detail about what
+each agency specifically does with their budget. If I were more exacting, I
+would talk about showing what most of the laboratories get, how much money is
+spent on grants versus internal research, and more, but I really just don't
+feel like doing all that—if any accountants like what I'm doing here, then
+by all means, continue doing what I did here.
+
+Budgeting is important, and it shows where the US's priorities lie.
 
 In the future I plan on making a webscraping script to automatically get the
-budget results for any given year on the AIP's record.
+budget results for any given year on the AIP's FIY record.
 
 ## Budget breakdown
 
