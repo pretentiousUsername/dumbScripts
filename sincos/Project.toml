@@ -1,6 +1,7 @@
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 Mux = "a975b10e-0019-58db-a62f-e48ff68538c9"
 NotebookToLaTeX = "4acc56a1-9938-4ee1-a82a-abdf2d4f6bfc"
