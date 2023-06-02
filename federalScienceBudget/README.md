@@ -1,21 +1,20 @@
 # 2023 US Federal Science Budget
 I just wanted to crunch some numbers, so I took the [AIP budget
 report](https://www.aip.org/fyi/federal-science-budget-tracker/FY2023) and
-crunched the numbers. The military proper takes up 53.44% of the US's science
-budget, but if you count the NNSA in there, it's more like 61.69%. Of course,
-this is all for agencies relevant to *physicists*, but most of the agencies
-here are also important for chemists, biologists, doctors, and more. Of course,
-the USDA and EPA weren't included here, so they've been left out, as I was too
-lazy to actually check them.
+crunched the numbers. Of course, this is all for agencies relevant to
+*physicists*, but most of the agencies here are also important for chemists,
+biologists, doctors, and more. Of course, the USDA and EPA weren't included
+here, so they've been left out, as I was too lazy to actually check them.
 
 It's worth noting that my analysis is far from complete here. I only used one
 source, which is *really* only relevant to physicists (like me!) or
 physics-adjacent people, moreover, I didn't go into granular detail about what
-each agency specifically does with their budget. If I were more exacting, I
-would talk about showing what most of the laboratories get, how much money is
-spent on grants versus internal research, and more, but I really just don't
-feel like doing all that—if any accountants like what I'm doing here, then
-by all means, continue doing what I did here.
+each agency specifically does with their budget. If I were more exacting about
+money, I would talk about showing what most of the laboratories get, how much
+money is spent on grants versus internal research, and more, but I really just
+don't feel like doing all that—if any accountants like what I'm doing here, then
+by all means, continue doing what I did here. I was doing this just to capture
+the broad strokes.
 
 Budgeting is important, and it shows where the US's priorities lie.
 
